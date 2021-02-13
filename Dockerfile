@@ -1,2 +1,2 @@
 FROM alpine
-CMD apk add squid
+RUN apk add squid
